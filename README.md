@@ -2,7 +2,7 @@
 
 A real-time interactive simulation of the electric field produced by two point charges, built in C++ with OpenGL. The simulation applies Coulomb's law and the principle of superposition to compute the field at 6,250 grid points every frame, rendering each as a directional arrow color mapped by magnitude.
 
-<img width="2559" height="1439" alt="image" src="https://github.com/user-attachments/assets/8a3d1ce9-0049-4dfd-a933-77331c49d24d" />
+![demo](demo.png)
 
 ---
 
