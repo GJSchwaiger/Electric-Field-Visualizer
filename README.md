@@ -14,7 +14,7 @@ The electric field at any point in space due to a point charge is given by Coulo
 
 where `k` is Coulomb's constant (8.99 × 10⁹ N·m²/C²), `q` is the signed charge value, `r` is the distance from the charge to the field point, and `r̂` is the unit vector pointing from the charge to the field point.
 
-For two charges, the total field at each point is computed by superposition — the contributions from the positive and negative charges are calculated independently and summed. The sign of `q` handles the direction automatically: positive charges produce fields that point away (repulsion), and negative charges produce fields that point toward (attraction).
+For two charges, the total field at each point is computed by superposition. The contributions from the positive and negative charges are calculated independently and summed. The sign of `q` handles the direction automatically: positive charges produce fields that point away (repulsion), and negative charges produce fields that point toward (attraction).
 
 Arrow color is mapped logarithmically from grey (weak field) to yellow (strong field), compressing the wide dynamic range of Coulomb's law into a visually useful scale.
 
